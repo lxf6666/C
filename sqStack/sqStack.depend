@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1587136933 source:f:\study\c\sqstack\main.c
+	<stdio.h>
+	<stdlib.h>
+	<definsqstack.h>
+
+1587119870 source:f:\study\c\sqstack\init_stack.c
+	<stdio.h>
+	<stdlib.h>
+	<definsqstack.h>
+
+1587125991 source:f:\study\c\sqstack\pushstack.c
+	<stdio.h>
+	<stdlib.h>
+	<definsqstack.h>
+
+1587120691 source:f:\study\c\sqstack\pop.c
+	<stdio.h>
+	<stdlib.h>
+	<definsqstack.h>
+
+1587092671 source:f:\study\c\sqstack\clear.c
+	<stdio.h>
+	<stdlib.h>
+	<definsqstack.h>
+
+1587118619 source:f:\study\c\sqstack\destorystack.c
+	<stdio.h>
+	<stdlib.h>
+	<definsqstack.h>
+
+1587093194 source:f:\study\c\sqstack\currentsize.c
+	<stdio.h>
+	<stdlib.h>
+	<definsqstack.h>
+
+1587095212 source:f:\study\c\sqstack\binarytodecimal.c
+	<stdio.h>
+	<stdlib.h>
+	<definsqstack.h>
+	<math.h>
+
+1587132242 source:f:\study\c\sqstack\cpush.c
+	<stdio.h>
+	<stdlib.h>
+	<definsqstack.h>
+
+1587128852 source:f:\study\c\sqstack\cpop.c
+	<stdio.h>
+	<stdlib.h>
+	<definsqstack.h>
+
+1587126209 source:f:\study\c\sqstack\c_init.c
+	<stdio.h>
+	<stdlib.h>
+	<definsqstack.h>
+
+1587132183 source:f:\study\c\sqstack\cslen.c
+	<stdio.h>
+	<stdlib.h>
+	<definsqstack.h>
+

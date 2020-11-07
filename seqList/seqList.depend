@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1586843981 source:f:\study\c\seqlist\main.c
+	<stdio.h>
+	<stdlib.h>
+	<initList.h>
+
+1586827187 source:f:\study\c\seqlist\initlist.c
+	<stdio.h>
+
+1586844958 source:f:\study\c\seqlist\union.c
+	<stdio.h>
+	<initList.h>
+
+1586830801 source:f:\study\c\seqlist\listlength.c
+	<stdio.h>
+	<initList.h>
+
+1586836657 source:f:\study\c\seqlist\clear.c
+	<stdio.h>
+	<initList.h>
+
+1586831940 source:f:\study\c\seqlist\isempty.c
+	<stdio.h>
+	<initList.h>
+
+1586837355 source:f:\study\c\seqlist\locateelem.c
+	<stdio.h>
+	<initList.h>
+
+1586835017 source:f:\study\c\seqlist\getelem.c
+	<stdio.h>
+	<initList.h>
+
+1586841526 source:f:\study\c\seqlist\listinsert.c
+	<stdio.h>
+	<initList.h>
+
+1586845001 source:f:\study\c\seqlist\deletelist.c
+	<stdio.h>
+	<initList.h>
+

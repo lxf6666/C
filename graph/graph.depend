@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1587985697 source:f:\study\c\graph\main.c
+	<stdio.h>
+	<stdlib.h>
+	<defingraph.h>
+
+1587958222 source:f:\study\c\graph\initmgraph.c
+	<stdio.h>
+	<stdlib.h>
+	<defingraph.h>
+
+1587905578 source:f:\study\c\graph\insertedge.c
+	<stdio.h>
+	<stdlib.h>
+	<defingraph.h>
+
+1587716172 source:f:\study\c\graph\createmgraph.c
+	<stdio.h>
+	<stdlib.h>
+	<defingraph.h>
+
+1587969089 source:f:\study\c\graph\initlgraph.c
+	<stdio.h>
+	<stdlib.h>
+	<defingraph.h>
+
+1587974473 source:f:\study\c\graph\insertlgraph.c
+	<stdio.h>
+	<stdlib.h>
+	<defingraph.h>
+
+1587972954 source:f:\study\c\graph\createlgraph.c
+	<stdio.h>
+	<stdlib.h>
+	<defingraph.h>
+

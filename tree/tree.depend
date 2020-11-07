@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1588053561 source:f:\study\c\tree\main.c
+	<stdio.h>
+	<stdlib.h>
+	<definbithtree.h>
+	<definetree.h>
+
+1587453079 source:f:\study\c\tree\createtree.c
+	<stdio.h>
+	<stdlib.h>
+	<definetree.h>
+
+1587454252 source:f:\study\c\tree\inorder.c
+	<stdio.h>
+	<stdlib.h>
+	<definetree.h>
+
+1587454252 source:f:\study\c\tree\preorder.c
+	<stdio.h>
+	<stdlib.h>
+	<definetree.h>
+
+1587454754 source:f:\study\c\tree\postorder.c
+	<stdio.h>
+	<stdlib.h>
+	<definetree.h>
+
+1588046879 source:f:\study\c\tree\visit.c
+	<stdio.h>
+	<stdlib.h>
+	<definetree.h>
+
+1587524974 source:f:\study\c\tree\createbithtree.c
+	<stdio.h>
+	<stdlib.h>
+	<definbithtree.h>
+	<definetree.h>
+
+1587538974 source:f:\study\c\tree\inthreading.c
+	<stdio.h>
+	<stdlib.h>
+	<definbithtree.h>
+
+1587538974 source:f:\study\c\tree\inorderthread.c
+	<stdio.h>
+	<stdlib.h>
+	<definbithtree.h>
+
+1588053447 source:f:\study\c\tree\searchsorttree.c
+	<stdio.h>
+	<stdlib.h>
+	<definetree.h>
+
+1588046879 source:f:\study\c\tree\create_bisorttree.c
+	<stdio.h>
+	<stdlib.h>
+	<definetree.h>
+
+1588053597 source:f:\study\c\tree\insert_bisorttree.c
+	<stdio.h>
+	<stdlib.h>
+	<definetree.h>
+
+1588053740 source:f:\study\c\tree\delete_bisorttree.c
+	<stdio.h>
+	<stdlib.h>
+	<definetree.h>
+

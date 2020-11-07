@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="linkedList" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/linkedList" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/linkedList" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="GetElem.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="connect.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cycprintf.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cycsearch.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="deleteNode.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="getinput.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="initLinkedList.h" />
+		<Unit filename="insertList.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="insertback.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="newcycp.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="printList.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="realse.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="scyc_init.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="scycdelete.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="scycinsert.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="seqinsert.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="setrear.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>

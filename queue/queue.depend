@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1587180161 source:f:\study\c\queue\main.c
+	<stdio.h>
+	<stdlib.h>
+	<Definqueue.h>
+
+1587178697 source:f:\study\c\queue\que_init.c
+	<stdio.h>
+	<stdlib.h>
+	<Definqueue.h>
+
+1587179522 source:f:\study\c\queue\dequeue.c
+	<stdio.h>
+	<stdlib.h>
+	<Definqueue.h>
+
+1587179522 source:f:\study\c\queue\q_insert.c
+	<stdio.h>
+	<stdlib.h>
+	<Definqueue.h>
+
+1587179789 source:f:\study\c\queue\destoryq.c
+	<stdio.h>
+	<stdlib.h>
+	<Definqueue.h>
+
+1587185465 source:f:\study\c\queue\cycq_insert.c
+	<stdio.h>
+	<stdlib.h>
+	<Definqueue.h>
+

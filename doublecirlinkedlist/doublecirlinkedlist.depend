@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1587041013 source:f:\study\c\doublecirlinkedlist\init_dlinkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<defindoublelinklist.h>
+
+1587044587 source:f:\study\c\doublecirlinkedlist\main.c
+	<stdio.h>
+	<stdlib.h>
+	<defindoublelinklist.h>
+
+1587042619 source:f:\study\c\doublecirlinkedlist\create.c
+	<stdio.h>
+	<stdlib.h>
+	<defindoublelinklist.h>
+
+1587042789 source:f:\study\c\doublecirlinkedlist\prinfdllist.c
+	<stdio.h>
+	<stdlib.h>
+	<defindoublelinklist.h>
+
+1587043458 source:f:\study\c\doublecirlinkedlist\insert.c
+	<stdio.h>
+	<stdlib.h>
+	<defindoublelinklist.h>
+
+1587044519 source:f:\study\c\doublecirlinkedlist\delete.c
+	<stdio.h>
+	<stdlib.h>
+	<defindoublelinklist.h>
+

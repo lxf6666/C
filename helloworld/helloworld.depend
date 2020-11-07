@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1584205420 source:f:\study\c\helloworld\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1586506790 source:f:\study\c\helloworld\test.c
+	<stdio.h>
+
+1586314716 source:f:\study\c\helloworld\putstest.c
+	<stdio.h>
+
+1586357130 source:f:\study\c\helloworld\reverse.c
+	<stdio.h>
+
+1586411748 source:f:\study\c\helloworld\primenumber.c
+	<stdio.h>
+
+1586417399 source:f:\study\c\helloworld\move.c
+	<stdio.h>
+
+1586443166 source:f:\study\c\helloworld\fact.c
+	<stdio.h>
+
+1586488372 source:f:\study\c\helloworld\char.c
+	<stdio.h>
+
+1586502343 source:f:\study\c\helloworld\pointerdate.c
+	<stdio.h>
+
+1586514123 source:f:\study\c\helloworld\psearch.c
+	<stdio.h>
+
+1586521796 source:f:\study\c\helloworld\chtransform.c
+	<stdio.h>
+
+1586533420 source:f:\study\c\helloworld\muldimarrandp.c
+	<stdio.h>
+

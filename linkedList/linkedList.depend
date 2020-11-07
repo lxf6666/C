@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1587018831 source:f:\study\c\linkedlist\main.c
+	<stdio.h>
+	<stdlib.h>
+	<initLinkedList.h>
+
+1586920036 source:f:\study\c\linkedlist\getelem.c
+	<stdio.h>
+	<initLinkedList.h>
+
+1586911964 source:f:\study\c\linkedlist\getinput.c
+	<stdio.h>
+	<initLinkedList.h>
+
+1586912026 source:f:\study\c\linkedlist\insertlist.c
+	<stdio.h>
+	<stdlib.h>
+	<initLinkedList.h>
+
+1586912422 source:f:\study\c\linkedlist\printlist.c
+	<stdio.h>
+	<stdlib.h>
+	<initLinkedList.h>
+
+1586928058 source:f:\study\c\linkedlist\realse.c
+	<stdio.h>
+	<stdlib.h>
+	<initLinkedList.h>
+
+1586914545 source:f:\study\c\linkedlist\insertback.c
+	<stdio.h>
+	<stdlib.h>
+	<initLinkedList.h>
+
+1587002057 source:f:\study\c\linkedlist\seqinsert.c
+	<stdio.h>
+	<stdlib.h>
+	<initLinkedList.h>
+
+1586921456 source:f:\study\c\linkedlist\deletenode.c
+	<stdio.h>
+	<stdlib.h>
+	<initLinkedList.h>
+
+1587006327 source:f:\study\c\linkedlist\scyc_init.c
+	<stdio.h>
+	<stdlib.h>
+	<initLinkedList.h>
+
+1587005044 source:f:\study\c\linkedlist\cycsearch.c
+	<stdio.h>
+	<stdlib.h>
+	<initLinkedList.h>
+
+1587006529 source:f:\study\c\linkedlist\scycinsert.c
+	<stdio.h>
+	<stdlib.h>
+	<initLinkedList.h>
+
+1587006715 source:f:\study\c\linkedlist\scycdelete.c
+	<stdio.h>
+	<stdlib.h>
+	<initLinkedList.h>
+
+1587006286 source:f:\study\c\linkedlist\cycprintf.c
+	<stdio.h>
+	<stdlib.h>
+	<initLinkedList.h>
+
+1587017717 source:f:\study\c\linkedlist\setrear.c
+	<stdio.h>
+	<stdlib.h>
+	<initLinkedList.h>
+
+1587018269 source:f:\study\c\linkedlist\connect.c
+	<stdio.h>
+	<stdlib.h>
+	<initLinkedList.h>
+
+1587018532 source:f:\study\c\linkedlist\newcycp.c
+

@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1586928944 source:f:\study\c\staticlinkedlist\init.c
+	<stdio.h>
+	<stdlib.h>
+	<defiStaticLinkedList.h>
+
+1586961190 source:f:\study\c\staticlinkedlist\main.c
+	<stdio.h>
+	<stdlib.h>
+	<defiStaticLinkedList.h>
+
+1586930174 source:f:\study\c\staticlinkedlist\getfree.c
+	<stdio.h>
+	<stdlib.h>
+	<defiStaticLinkedList.h>
+
+1586956900 source:f:\study\c\staticlinkedlist\insert.c
+	<stdio.h>
+	<stdlib.h>
+	<defiStaticLinkedList.h>
+
+1586939713 source:f:\study\c\staticlinkedlist\createsl.c
+	<stdio.h>
+	<stdlib.h>
+	<defiStaticLinkedList.h>
+
+1586961136 source:f:\study\c\staticlinkedlist\deletenode.c
+	<stdio.h>
+	<stdlib.h>
+	<defiStaticLinkedList.h>
+

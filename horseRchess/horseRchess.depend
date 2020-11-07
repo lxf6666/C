@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1587873970 source:f:\study\c\horserchess\main.c
+	<stdio.h>
+	<stdlib.h>
+
